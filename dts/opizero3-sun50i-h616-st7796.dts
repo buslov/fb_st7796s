@@ -9,7 +9,7 @@ MOSI      	PH7 SPI1_MOSI
 MISO      	PH8 SPI1_MISO
 CLK       	PH6 SPI1_CLK
 TFT_CS    	PC10   (reg = <2>)
-DC        	PC7 
+DC (RS)   	PC7
 TOUCH_CS  	PC14   (reg = <0>)
 TOUCH_IRQ 	PC15
 LED       	3.3V
